@@ -81,6 +81,7 @@ void MainWindow::open()
     }
 }
 
+/* Not written by Martin
 // Saves the rendered notation to a PDF using the pdf export class
 void MainWindow::save()
 {
@@ -107,6 +108,7 @@ void MainWindow::save()
         statusBar()->showMessage(mes);
     }
 }
+*/
 
 // creates QActions for open, save, and exit
 void MainWindow::createActions()
