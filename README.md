@@ -6,7 +6,7 @@ This repository hosts samples and snippets of code from projects that I've worke
 ### EE553 Music Editor:
 This project involved working with group that set out to build a music editor using C++ and Qt5. The final result was a program that could read MIDI files and display standard music notation as well as export/save to a PDF file. This is one of my more recent projects, and I learned a lot about OOP from this project.
 
-### Poliamp:
+### Polimap:
 This was a group project that set out to use python to gather data from Twitter to predict the results of the 2016 US presidential election. This was my first course in Python, and I have learned a lot since then.
 
 ### UniClick Login:
